@@ -1,0 +1,39 @@
+# Python environment and cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+venv/
+env/
+.env/
+.venv/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Secrets and local configurations
+.env
+*.env
+.env.local
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Package and distribution files
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# OS generated files
+.DS_Store
+Thumbs.db
