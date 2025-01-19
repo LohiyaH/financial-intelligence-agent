@@ -16,7 +16,7 @@ This project is an advanced AI-powered financial analysis tool that leverages mu
 ## Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/LohiyaH/financial-ai-analyst.git
+git clone git@github.com:LohiyaH/financial-intelligence-agent.git
 cd financial-ai-analyst
 ```
 
